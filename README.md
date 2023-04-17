@@ -11,5 +11,5 @@ Free VPS for everybody!! Method by Vichingo455
 7. Type as username: runneradmin and as password: Password@001
 8. Wow server!!!
 
-## Screenshots (if you don't believe that this method really works
+### Screenshots (if you don't believe that this method really works)
 ![RDP_Server2019](https://user-images.githubusercontent.com/59311016/232539982-2b7d1df9-cb3d-4d6b-aadb-342ef7a3c2c5.png)
