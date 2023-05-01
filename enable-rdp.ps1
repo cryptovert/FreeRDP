@@ -1,7 +1,7 @@
 
-net.exe user "installer" "Password@001"
-write-host Username: installer
-write-host Password: Password@001
+net.exe user "omerta" "silence"
+write-host Username: omerta
+write-host Password: silence
 
 Set-ItemProperty -Path 'HKLM:\System\CurrentControlSet\Control\Terminal Server'-name "fDenyTSConnections" -Value 0
 Enable-NetFirewallRule -DisplayGroup "Remote Desktop"
